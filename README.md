@@ -10,4 +10,4 @@ Interprocess Communication dersi için yapmış olduğum P2P Satranç oyunu.
 
 *Asıl amaç TCP kullanarak bu sistemi oluşturmak olduğu için buna odaklanılmıştır.
 
-*Socket kısmındaki IPAdress ve 1277.0.0.1 satırı , gerçek IP adresiniz ile değiştirerek uzak makinalar arasında oynanma sağlanabilir.
+*Socket kısmındaki IPAdress ve 127.0.0.1 satırı , gerçek IP adresiniz ile değiştirerek uzak makinalar arasında oynanma sağlanabilir.

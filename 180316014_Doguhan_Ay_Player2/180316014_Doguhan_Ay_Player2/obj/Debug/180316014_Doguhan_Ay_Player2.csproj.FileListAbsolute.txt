@@ -1,0 +1,10 @@
+C:\Users\doguhan_2\source\repos\180316014_Doguhan_Ay_Player2\180316014_Doguhan_Ay_Player2\bin\Debug\180316014_Doguhan_Ay_Player2.exe.config
+C:\Users\doguhan_2\source\repos\180316014_Doguhan_Ay_Player2\180316014_Doguhan_Ay_Player2\bin\Debug\180316014_Doguhan_Ay_Player2.exe
+C:\Users\doguhan_2\source\repos\180316014_Doguhan_Ay_Player2\180316014_Doguhan_Ay_Player2\bin\Debug\180316014_Doguhan_Ay_Player2.pdb
+C:\Users\doguhan_2\source\repos\180316014_Doguhan_Ay_Player2\180316014_Doguhan_Ay_Player2\obj\Debug\180316014_Doguhan_Ay_Player2.csproj.AssemblyReference.cache
+C:\Users\doguhan_2\source\repos\180316014_Doguhan_Ay_Player2\180316014_Doguhan_Ay_Player2\obj\Debug\_180316014_Doguhan_Ay_Player2.Form1.resources
+C:\Users\doguhan_2\source\repos\180316014_Doguhan_Ay_Player2\180316014_Doguhan_Ay_Player2\obj\Debug\_180316014_Doguhan_Ay_Player2.Properties.Resources.resources
+C:\Users\doguhan_2\source\repos\180316014_Doguhan_Ay_Player2\180316014_Doguhan_Ay_Player2\obj\Debug\180316014_Doguhan_Ay_Player2.csproj.GenerateResource.cache
+C:\Users\doguhan_2\source\repos\180316014_Doguhan_Ay_Player2\180316014_Doguhan_Ay_Player2\obj\Debug\180316014_Doguhan_Ay_Player2.csproj.CoreCompileInputs.cache
+C:\Users\doguhan_2\source\repos\180316014_Doguhan_Ay_Player2\180316014_Doguhan_Ay_Player2\obj\Debug\180316014_Doguhan_Ay_Player2.exe
+C:\Users\doguhan_2\source\repos\180316014_Doguhan_Ay_Player2\180316014_Doguhan_Ay_Player2\obj\Debug\180316014_Doguhan_Ay_Player2.pdb

@@ -1,0 +1,10 @@
+C:\Users\doguhan_2\source\repos\180316014_Doguhan_Ay\180316014_Doguhan_Ay\bin\Debug\180316014_Doguhan_Ay.exe.config
+C:\Users\doguhan_2\source\repos\180316014_Doguhan_Ay\180316014_Doguhan_Ay\bin\Debug\180316014_Doguhan_Ay.exe
+C:\Users\doguhan_2\source\repos\180316014_Doguhan_Ay\180316014_Doguhan_Ay\bin\Debug\180316014_Doguhan_Ay.pdb
+C:\Users\doguhan_2\source\repos\180316014_Doguhan_Ay\180316014_Doguhan_Ay\obj\Debug\180316014_Doguhan_Ay.csproj.AssemblyReference.cache
+C:\Users\doguhan_2\source\repos\180316014_Doguhan_Ay\180316014_Doguhan_Ay\obj\Debug\_180316014_Doguhan_Ay.Form1.resources
+C:\Users\doguhan_2\source\repos\180316014_Doguhan_Ay\180316014_Doguhan_Ay\obj\Debug\_180316014_Doguhan_Ay.Properties.Resources.resources
+C:\Users\doguhan_2\source\repos\180316014_Doguhan_Ay\180316014_Doguhan_Ay\obj\Debug\180316014_Doguhan_Ay.csproj.GenerateResource.cache
+C:\Users\doguhan_2\source\repos\180316014_Doguhan_Ay\180316014_Doguhan_Ay\obj\Debug\180316014_Doguhan_Ay.csproj.CoreCompileInputs.cache
+C:\Users\doguhan_2\source\repos\180316014_Doguhan_Ay\180316014_Doguhan_Ay\obj\Debug\180316014_Doguhan_Ay.exe
+C:\Users\doguhan_2\source\repos\180316014_Doguhan_Ay\180316014_Doguhan_Ay\obj\Debug\180316014_Doguhan_Ay.pdb
